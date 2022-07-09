@@ -1,10 +1,10 @@
 ## Project Structure
 This project has 19 classes and 84 methods.
 
-+-- game   folder            Specific game classes
-+-- StartGame.py  file       Program to Start the Game
-+-- README.md    file        general info
-+-- images folder            it has a image of the game Interface "images/cycle-screenshot.png"
+game   folder            Specific game classes
+StartGame.py  file       Program to Start the Game
+README.md    file        general info
+images folder            it has a image of the game Interface "images/cycle-screenshot.png"
 
 
 # Overview
